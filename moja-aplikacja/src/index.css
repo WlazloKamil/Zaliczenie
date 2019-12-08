@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+ background-color:#282c34;
+ color:white;
+}
+
+th{
+  background-color:silver;
+  width: 150px;
+  text-align: center !important;
+}
