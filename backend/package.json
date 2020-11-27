@@ -12,7 +12,7 @@
     "sqlite3": "^4.1.0",
     "start": "^5.1.0",
     "supertest": "^4.0.2",
-    "systeminformation": "^4.16.0",
+    "systeminformation": "^4.30.5",
     "uuid": "^3.3.3"
   },
   "devDependencies": {
